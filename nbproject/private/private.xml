@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLDirectionalLightComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLEventClassListener.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/DiagramFrame.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLTimerAnimation.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLStaticMeshComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GRACE/GRACEData.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLMathHelper.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLSceneComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLScene/GLExternalSceneAccess.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/Shaders/StandardVertexShader.vs</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/Math/GLTransform.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/Main.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLShaderProgram.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLSphereMesh.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GLCanvasPanel.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLTexture.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLSimulation.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/org/lwjgl/opengl/awt/PlatformLinuxGLCanvas.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GRACE/GRACECoordinate.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/MousePicker/MousePicker.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/org/lwjgl/opengl/awt/GLData.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/Shaders/StandardFragmentShader.fs</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLFace.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLRenderer.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/Shaders/MousePickerVertexShader.vs</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLShapeComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/MainWindow.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/org/lwjgl/opengl/awt/AWTGLCanvas.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLMesh.java</file>
+            <file>jar:file:/D:/Documents/Studium/HCI/hci/hcisrc/Extern/LWJGL_Windows/lwjgl-sources.jar!/org/lwjgl/system/Checks.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GRACE/GRACELoader.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLEarthMesh.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLCameraComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/ProgressBar.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLScene/GLScene.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/Shaders/MousePickerFragmentShader.fs</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/Components/GLLightComponent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/MousePicker/MousePickerRay.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLEvent.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GRACE/GRACEFileLoader.java</file>
+            <file>file:/D:/Documents/Studium/HCI/hci/hcisrc/src/vhci/GL/GLObject/GLActor.java</file>
+        </group>
+    </open-files>
+</project-private>
